@@ -1,0 +1,1 @@
+print(math.maxinteger * math.maxinteger)
